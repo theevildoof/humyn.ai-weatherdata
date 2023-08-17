@@ -1,0 +1,1 @@
+# humyn.ai-weatherdata
